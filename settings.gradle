@@ -1,0 +1,1 @@
+include ':app', ':SCAnnoCompiler', ':SCAnno', ':SCAnno', ':scannoapi'

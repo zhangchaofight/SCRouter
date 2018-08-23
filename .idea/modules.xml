@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SCAnno/SCAnno.iml" filepath="$PROJECT_DIR$/SCAnno/SCAnno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SCAnnoCompiler/SCAnnoCompiler.iml" filepath="$PROJECT_DIR$/SCAnnoCompiler/SCAnnoCompiler.iml" />
+      <module fileurl="file://E:\aspros\ZCRouter\SCAnnoCompiler\SCRouterCompiler.iml" filepath="E:\aspros\ZCRouter\SCAnnoCompiler\SCRouterCompiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZCRouter.iml" filepath="$PROJECT_DIR$/ZCRouter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scannoapi/scannoapi.iml" filepath="$PROJECT_DIR$/scannoapi/scannoapi.iml" />
+    </modules>
+  </component>
+</project>
